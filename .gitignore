@@ -1,0 +1,15 @@
+node_modules/
+build/
+*App.test.js
+package-lock.json
+.env
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.svg
+*.webp
+*.ico
