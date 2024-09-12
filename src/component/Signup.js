@@ -1,7 +1,7 @@
 import React from 'react'
 import { useHistory } from 'react-router-dom';
 import axios from 'axios'
-
+// make it in old practice 
 export default function Signup() {
   const history =useHistory();
   const s_up= async (e)=>{
